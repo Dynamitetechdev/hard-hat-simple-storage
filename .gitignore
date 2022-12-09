@@ -4,11 +4,9 @@ coverage
 coverage.json
 typechain
 typechain-types
-
+.gitignore
 # Hardhat files
 cache
 artifacts
 gas-report.txt
-coverage.json
-coverage
 
